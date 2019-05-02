@@ -1,8 +1,6 @@
 # Embedding-Images-and-Video-Project
 
 
-#Do not forget to update your readme with author's name, project descriptions and live demo.
-
 #Authors:
 
 #Othmane Naamani 
